@@ -1,3 +1,0 @@
-<<remote github tets>>
-
-1. after push to git-github-prac
